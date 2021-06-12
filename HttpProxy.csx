@@ -19,4 +19,4 @@ service.Stop;
 //Dump Packets
 var packets=service.Packets;
 WriteLine("Captured {0} packets:",packets.Count);
-WrittePackets(packets);
+WritePackets(packets);
